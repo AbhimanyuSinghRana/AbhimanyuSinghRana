@@ -34,7 +34,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 | <a href="https://t.me/Venom_Hai_Hum"><img src="https://telegra.ph/file/8724b9fcb3950004bc8c8.jpg" width="700px" height="300px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Asad Ali Owner Of My Own World 🌎](https://t.me/Venom_Hai_Hum)**                                                                                |
+|       **[Abhimanu Singh Owner Of My Own World 🌎](https://t.me/Venom_Hai_Hum)**                                                                                |
 | <a href="https://t.me/Venom_Hai_Hum"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a> <a href="https://www.instagram.com/Venom_Hai_Hum"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a>                                                                                                                                                                <a href="https://www.youtube.com/channel/jankarikiduniya"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="100px" height="100px"></a>                                                                     
 
 
@@ -124,6 +124,10 @@ I created these images, feel free to use them.
 
   <a href="https://github.com/AbhimanyuSinghRana"><img alt="Abhimanu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbhimanyuSinghRana&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+❤️ Credit ... [Asad Ali(https://t.me/Dr_Asad_Ali)
+
+
+
 
 
 ---
@@ -137,4 +141,3 @@ Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░
 
 ----
 
-💞️ Credit ... [Asad Ali(https://t.me/Dr_Asad_Ali)
