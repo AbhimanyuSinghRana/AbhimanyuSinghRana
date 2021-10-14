@@ -124,7 +124,7 @@ I created these images, feel free to use them.
 
   <a href="https://github.com/AbhimanyuSinghRana"><img alt="Abhimanu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbhimanyuSinghRana&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-## ❤️ Credit ... [Asad Ali](https://t.me/Dr_Asad_Ali)
+## ❤️ Credit ... [Abhimanu Singh](https://t.me/Venom_Hai_Hum)
 
 
 
